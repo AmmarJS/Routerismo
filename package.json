@@ -1,10 +1,14 @@
 {
   "name": "routerismo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple javascript router",
   "author": "Ammar Jlies",
   "license": "MIT",
-  "keywords": ["router", "state", "renderer"],
+  "keywords": [
+    "router",
+    "state",
+    "renderer"
+  ],
   "type": "module",
   "main": "./dist/routerismo.umd.cjs",
   "module": "./dist/routerismo.js",
