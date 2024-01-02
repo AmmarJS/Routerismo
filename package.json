@@ -1,6 +1,6 @@
 {
   "name": "routerismo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple javascript library to handle routing",
   "author": "Ammar Jlies",
   "license": "MIT",
